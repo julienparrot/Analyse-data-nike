@@ -5,7 +5,7 @@
   <h3 align="center">Scraping  Nike Project</h3>
 
   <p align="center">
-    Ce projet est une analyse de donnée scraper sur le site nike
+    Ce projet est une analyse de donnée nike
     <br />
     <br />
     <a href="https://docs.google.com/presentation/d/116PmWraxvXfvKLbyi3P-YUCR2K27g2SpeSG_gSfElJ4/edit?usp=sharing">Présentation projet slide</a>
@@ -74,13 +74,7 @@ Pour ce projet vous aurez besoin de
 git clone https://github.com/julienparrot/Scrapping_nike
 ```
 
-2. run le scrapiing avec
-
-```sh
-python run
-```
-
-3. run notebook
+2. run notebook
 
 Ouvrir **Terminal**, cd le nom du projet and et éxecuter la commande:
 

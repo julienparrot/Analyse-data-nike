@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Scraping  Nike Project</h3>
+  <h3 align="center">Analize Nike Project</h3>
 
   <p align="center">
     Ce projet est une analyse de donnée nike
